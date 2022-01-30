@@ -1,0 +1,4 @@
+- 👋 Olá! Sou Elio Benedicto 
+- 👀 Vi que você baixou meu código! Aproveite e faça quantas alterações quiser!
+- 🌱 Agora estou aprendendo Python, mas minha especialidade é HTML e CSS
+- 📫 Para chegar até mim, meu email é oii@elio.rf.gd
